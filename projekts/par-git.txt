@@ -1,0 +1,2 @@
+Git ir programmas versiju kontroles programma, kas saglabā visas veiktās izmaiņas projekta failos un ļauj viegli atgriezties vecākā projekta versijā.
+Git versiju kontrole ir tik svarīga, jo tā atvieglo vienlaicīgu strādāšanu pie projekta vairākiem cilvēkiem, kā arī kļūdu gadījumā var atgriezties pie strādājošas projekta versijas.
